@@ -1,0 +1,6 @@
+[submodule "laravel-webapp-demo"]
+	path = laravel-webapp-demo
+	url = https://github.com/MohamedEldefrawy/laravel-webapp-demo.git
+[submodule "angular-dashboard-demo"]
+	path = angular-dashboard-demo
+	url = https://github.com/MohamedEldefrawy/angular-dashboard-demo.git
